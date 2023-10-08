@@ -4,7 +4,7 @@ This is a simple YouTube clone created for learning purposes. It replicates basi
 
 ## Demo
 
-[Link to Live Demo](https://umakant3525.github.io/cloneyoutube/)
+[Link to Live Demo](https://umakant3525.github.io/youtube_clone/)
 
 ## Technologies Used
 
